@@ -4,7 +4,7 @@
 .orcamento {
   display: grid;
   grid-template-columns: 5fr 7fr;
-  padding: 120px;
+  padding-bottom: 120px;
 }
 .orcamento h2 {
   text-transform: uppercase;
