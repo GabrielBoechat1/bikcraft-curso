@@ -1,10 +1,10 @@
-const links = document.querySelectorAll(".header-menu a");
+// const links = document.querySelectorAll(".header-menu a");
 
-function ativarLink(link) {
-    const url = location.href;
-    if (url.includes(link.href)) {
-        link.classList.add('ativo');
-    };
-};
+// function ativarLink(link) {
+//     const url = location.href;
+//     if (url.includes(link.href)) {
+//         link.classList.add('ativo');
+//     };
+// };
 
-links.forEach(ativarLink);
+// links.forEach(ativarLink);
